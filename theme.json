@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-persona",
-    "name": "Persona",
-    "description": "Persona Theme for NodeBB",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "id": "nodebb-theme-persona-cn",
+    "name": "Persona-cn",
+    "description": "Persona-cn Theme for NodeBB",
+    "url": "https://github.com/mario56/nodebb-theme-persona",
     "screenshot": "screenshot.png"
 }
